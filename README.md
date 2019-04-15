@@ -1,5 +1,9 @@
 # WXQLabelFlow
-不规则标签流
+不规则标签流实现效果：
+
+![image](https://github.com/wuyukobe24/WXQLabelFlow/blob/master/WXQLabelFlow.png)
+
+cocoapods 导入
 
 1、Add `pod 'WXQLabelFlow'` to your Podfile.
 
@@ -57,4 +61,3 @@
 @end
 ```
 
-运行效果：
