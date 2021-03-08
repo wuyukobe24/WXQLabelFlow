@@ -5,8 +5,6 @@
 //  Created by WXQ on 2019/4/11.
 //  Copyright © 2019 WXQ. All rights reserved.
 //
-//  自定义标签流库
-//  cocoapods
 
 #import <UIKit/UIKit.h>
 
